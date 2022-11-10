@@ -3,7 +3,7 @@ The official development organisation for the Mingleton Discord server. All proj
 
 ## The team
 - [@zaccomode](https://github.com/zaccomode) - Lead developer & server owner
-- [@BenSaunders1])https://github.com/BenSaunders1) - Developer & server moderator
+- [@BenSaunders1](https://github.com/BenSaunders1) - Developer & server moderator
 
 ## The Mingleton RPG
 [Direct link](https://github.com/mingleton-rpg)
